@@ -1,7 +1,7 @@
 <?php
-$DBHost = "newbon2.db.9127094.hostedresource.com";
+$DBHost = "localhost";
 $DBName = "newbon2";
-$DBUser = "newbon2";
+$DBUser = "root";
 $DBPassword = "A2ff6cd2d5c3!";
 //$DBPassword = "a2ff6cd2d5c3";
 $videoondemand = mysql_pconnect($DBHost, $DBUser, $DBPassword);
